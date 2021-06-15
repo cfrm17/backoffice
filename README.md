@@ -14,6 +14,8 @@ If you click the Load button, all the existing books are loaded in the Display t
 
 Note that all the bookIds above are underlined that means you can further drill down these books. Clicking a bookId (e.g., B00000012000004), all the trades within this book are displayed in the Details tab of the main window
 
-You can find more details at 
-https://finpricing.com/lib/EqSwap.html
+References:
+
+https://finpricing.com/lib/EqWarrant.html
+
 
